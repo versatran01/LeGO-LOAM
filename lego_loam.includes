@@ -1,1 +1,6 @@
-LeGO-LOAM/include
+/opt/ros/melodic/include
+/usr/local/include
+/usr/local/include/eigen3
+/usr/include/pcl-1.8
+LeGO-LOAM/iclude
+
